@@ -1,0 +1,2 @@
+# descolar-client
+AngularJS + Typescript
